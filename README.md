@@ -5,12 +5,12 @@ University of Wyoming
 =========================================
 Team Members
 =========================================
-* Richard Yang - ryang3@uwyo.edu
-* Brian Moore - bmoore16@uwyo.edu
-* John "Ross" Petriu - jr.petrutiu@gmail.com
-* Gowtham Prabhu - gjaganat@uwyo.edu
-* Nasser Alawami - nalawami@uwyo.edu
-* Mohammed Busaleh - mbusaleh@uwyo.edu
+* Richard Yang - ryang3@uwyo.edu - "Soulrez"
+* Brian Moore - bmoore16@uwyo.edu - Github Account
+* John "Ross" Petriu - jr.petrutiu@gmail.com - Github Account
+* Gowtham Prabhu - gjaganat@uwyo.edu - Github Account
+* Nasser Alawami - nalawami@uwyo.edu - Github Account
+* Mohammed Busaleh - mbusaleh@uwyo.edu - Github Account
 
 =========================================
 Project Information
