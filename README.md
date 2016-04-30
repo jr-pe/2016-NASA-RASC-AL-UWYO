@@ -8,7 +8,6 @@ Team Members
 * Richard Yang - ryang3@uwyo.edu - "Soulrez"
 * Brian Moore - bmoore16@uwyo.edu - "bmoore1203"
 * John "Ross" Petriu - jr.petrutiu@gmail.com - "jrprj"
-* Gowtham Prabhu - gjaganat@uwyo.edu - "gowtham800"
 * Nasser Alawami - nalawami@uwyo.edu - "sayed4"
 * Mohammed Busaleh - mbusaleh@uwyo.edu - "mbusaleh"
 
