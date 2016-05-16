@@ -1,15 +1,12 @@
-Robo-Ops Project (UW Cowboy Robotics)
-COSC 4950/5: Senior Design I/II
-University of Wyoming
+2016 RASC-AL Exploration RoboOps Competition
+University of Wyoming Team
 
 =========================================
 Team Members
 =========================================
 * Richard Yang - ryang3@uwyo.edu - "Soulrez"
-* Brian Moore - bmoore16@uwyo.edu - "bmoore1203"
 * John "Ross" Petriu - jr.petrutiu@gmail.com - "jrprj"
-* Nasser Alawami - nalawami@uwyo.edu - "sayed4"
-* Mohammed Busaleh - mbusaleh@uwyo.edu - "mbusaleh"
+* Brian Moore - bmoore16@uwyo.edu - "bmoore1203"
 
 =========================================
 Project Information
@@ -19,21 +16,12 @@ Twice the wheels, twice the collection arms and buckets, twice the rovers, twice
 =========================================
 Directory Listing
 =========================================
-* **Source:** This is where you should place all of your source code.  If your project
-  uses multiple languages, you may find it useful to have subdirectories, e.g.,
-  Source/java, Source/html, Source/images, etc.  If you are using an IDE that has
-  a project directory, you may wish to start the project here.  For example, the
-  Source directory could contain an Xcode project repository or a VisualStudio
-  project.
+* **Documents:** Technical report/final paper for the project
 
-* **Documents:** Here will be the documents you write to describe your project.  The
-  boiler plate includes a use case template and a sample use case.  Both of these
-  are taken from [Cockburn's use cases website][1], which contains many other useful tips
-  on writing effective use cases (as does his book).  The use cases are written
-  down in [Markdown][2] format.  You may convert them to your word processor of
-  choice.  This folder also includes a sample specification document from a real
-  software company.  That is a good example of what a requirements document for this
-  class should look like.
+* **Install_Scripts:** Scripts to set up the development environment and drivers.
 
-* **Resources:** This is where you can place files that are useful to your project.
-  For example, you may place here helpful articles downloaded from the internet.
+* **Libraries:** ROS libraries used in this project
+
+* **Shell_Scripts:** Scripts to configure the environment on mission control and rover
+
+* **Source:** Source code for our arm and drive control system and 3D stereo visualization system.
