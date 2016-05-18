@@ -5,7 +5,7 @@ University of Wyoming Team
 Team Members
 =========================================
 * Richard Yang - ryang3@uwyo.edu - "Soulrez"
-* John "Ross" Petriu - jr.petrutiu@gmail.com - "jrprj"
+* John "Ross" Petrutiu - jr.petrutiu@gmail.com - "jrprj"
 * Brian Moore - bmoore16@uwyo.edu - "bmoore1203"
 
 =========================================
